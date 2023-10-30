@@ -35,7 +35,7 @@ const Dream = new Cat("mysterious","black and white",1000000000);
 console.log(Cheddar);
 console.log(Dream);
 
-Cheddar.learn("swimming");
+Cheddar.eat("freshly caught salmon");
 Dream.meow("piano");
 
 
